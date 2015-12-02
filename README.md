@@ -1,4 +1,4 @@
-|[![The HYIP Project](https://avatars1.githubusercontent.com/u/8466209?v=10&s=30)](https://github.com/hyip) |This [repo](https://github.com/hyipmonitor/hyipmonitor.github.io "Repository") is courtesy of [The HYIP Project](https://github.com/hyip/monitor "High Yard Investment Program"). Find all of them on [The Project Map](https://github.com/hyip/info/wiki/maps#project-map "Project Mapping").|[![Route-6](https://tophyipmonitor.files.wordpress.com/2015/06/spider.png?w=20)](https://tophyipmonitor.wordpress.com/hyip-world/mapping/map_route_6/#main) |
+|[![The HYIP Project](https://avatars1.githubusercontent.com/u/8466209?v=10&s=30)](https://github.com/hyip) |This [repo](https://github.com/hyipmonitor/hyipmonitor.github.io "Repository") is courtesy of [The HYIP Project](https://github.com/hyip/monitor "High Yard Investment Program"). Find all of them on [The Project Map](https://github.com/hyip/info/wiki/maps#project-map "Project Mapping").|
 |:----|----:|
 
 # hyipmonitor.github.io
